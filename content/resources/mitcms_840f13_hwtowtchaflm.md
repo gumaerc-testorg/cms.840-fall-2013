@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
+parent_uid: 99b16bae-dbac-18a2-7a42-ce38c8bfc2a5
 resourcetype: Document
 title: How to Watch a Film
 uid: c1067a2b-1da8-92e5-c319-50549ead3073

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
+parent_uid: 99b16bae-dbac-18a2-7a42-ce38c8bfc2a5
 resourcetype: Document
 title: Session 2 - America the Violent
 uid: edf90755-2714-1ee9-ce36-2e0ff8faa6f2

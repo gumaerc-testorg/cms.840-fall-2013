@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
+parent_uid: 99b16bae-dbac-18a2-7a42-ce38c8bfc2a5
 resourcetype: Document
 title: Violence - Terms, Concepts, and Etymology
 uid: a6311930-23aa-9212-8e92-200af024c7fb

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
+parent_uid: 99b16bae-dbac-18a2-7a42-ce38c8bfc2a5
 resourcetype: Document
 title: Session 11 - Postmodern Graphic - Gore, Humor, Cartoons
 uid: 3924d2ae-a465-ed4e-6cbf-6a5e3ed176ee

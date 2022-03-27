@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
+parent_uid: 99b16bae-dbac-18a2-7a42-ce38c8bfc2a5
 resourcetype: Document
 title: Guide to Scholarly Writing
 uid: b52fb238-fc24-b1ae-f790-0ae5098cb170

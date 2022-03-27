@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
+parent_uid: 99b16bae-dbac-18a2-7a42-ce38c8bfc2a5
 resourcetype: Document
 title: Session 3 - Serial Killers I - Repetition & Commodities
 uid: 2b6de5f3-ea16-cfe6-6bc5-6ae49a8109b4

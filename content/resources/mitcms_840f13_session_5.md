@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
+parent_uid: 99b16bae-dbac-18a2-7a42-ce38c8bfc2a5
 resourcetype: Document
 title: Session 5 - Serial Killers III - Portraits & Signs
 uid: bd78a7a3-96d7-60ec-31fb-cdf8aca04f09

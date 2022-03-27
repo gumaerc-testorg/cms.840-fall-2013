@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 06f8a9fd-51e6-1d3f-f728-baa4dac029f7
 resourcetype: Document
 title: Further Viewing
 uid: 1ed2613f-8dad-2ac6-bb27-92095ef0328c

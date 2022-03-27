@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
+parent_uid: 99b16bae-dbac-18a2-7a42-ce38c8bfc2a5
 resourcetype: Document
 title: Session 6 - White Masculinity at the End of the Century
 uid: 04ef9e5e-6b02-c2f6-7ee3-bf26d31a1754
