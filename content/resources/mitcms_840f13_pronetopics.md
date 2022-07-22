@@ -5,6 +5,7 @@ file: /courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Paper One Topics
 uid: bfc62cb3-2132-36c3-299b-c0e6668c3d1d
 ---
 This resource contains information regarding Paper One Topics.
-

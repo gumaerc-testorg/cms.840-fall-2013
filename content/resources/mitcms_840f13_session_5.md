@@ -5,6 +5,7 @@ file: /courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Session 5 - Serial Killers III - Portraits & Signs
 uid: bd78a7a3-96d7-60ec-31fb-cdf8aca04f09
 ---
 This resource contains information regarding lecture 5.
-

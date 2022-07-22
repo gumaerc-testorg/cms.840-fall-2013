@@ -5,6 +5,7 @@ file: /courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Session 13 - Is it the Case that We Are What We Watch
 uid: d11b79c1-673b-98f9-d868-ef3277f8c6ee
 ---
 This resource contains information regarding lecture 13.
-

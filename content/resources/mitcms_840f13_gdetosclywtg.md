@@ -5,6 +5,7 @@ file: /courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Guide to Scholarly Writing
 uid: b52fb238-fc24-b1ae-f790-0ae5098cb170
 ---
 This resource contains information regarding Guide to Scholarly Writing.
-

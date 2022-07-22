@@ -5,6 +5,7 @@ file: /courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Session 3 - Serial Killers I - Repetition & Commodities
 uid: 2b6de5f3-ea16-cfe6-6bc5-6ae49a8109b4
 ---
 This resource contains information regarding lecture 3.
-

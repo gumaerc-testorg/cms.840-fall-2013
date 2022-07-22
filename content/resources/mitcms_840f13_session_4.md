@@ -5,6 +5,7 @@ file: /courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Session 4 - Serial Killers II - Boredom & Blankness
 uid: 498ded08-11a7-04db-60ef-31cfea78bdc1
 ---
 This resource contains information regarding lecture 4.
-

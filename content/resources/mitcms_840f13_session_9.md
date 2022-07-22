@@ -5,6 +5,7 @@ file: /courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Session 9 - Sex, Desire, & Fragmentation
 uid: 78002993-79c5-b58b-8d5f-19039e7d5303
 ---
 This resource contains information regarding lecture 9.
-

@@ -5,6 +5,7 @@ file: /courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Session 11 - Postmodern Graphic - Gore, Humor, Cartoons
 uid: 3924d2ae-a465-ed4e-6cbf-6a5e3ed176ee
 ---
 This resource contains information regarding lecture 11.
-

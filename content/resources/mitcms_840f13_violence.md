@@ -6,6 +6,7 @@ file: /courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Violence - Terms, Concepts, and Etymology
 uid: a6311930-23aa-9212-8e92-200af024c7fb
 ---
 This resource contains information regarding Violence - Terms, Concepts, and Etymology.
-
