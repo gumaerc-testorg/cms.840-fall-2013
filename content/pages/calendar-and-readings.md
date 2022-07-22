@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, readings, and screenings
+  for the course, lecture handouts, and the list of required texts.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Calendar and Readings
 uid: 99b16bae-dbac-18a2-7a42-ce38c8bfc2a5
 ---
@@ -42,9 +47,9 @@ READINGS & SCREENINGS
 
 Syllabus & Introduction
 
-[Violence - Terms, Concepts, and Etymology (PDF)]({{< baseurl >}}/resources/mitcms_840f13_violence)
+{{% resource_link a6311930-23aa-9212-8e92-200af024c7fb "Violence - Terms, Concepts, and Etymology (PDF)" %}}
 
-[How to Watch a Film (PDF)]({{< baseurl >}}/resources/mitcms_840f13_hwtowtchaflm)
+{{% resource_link c1067a2b-1da8-92e5-c319-50549ead3073 "How to Watch a Film (PDF)" %}}
 
 Arizona→ Boston (+ Rolling Stone)
 
@@ -56,7 +61,7 @@ Sanctioned Violence: the War Film
 
 On Style and Metaphor
 
-[Lecture Notes for Session 1 - A Brief History of Violence (PDF)]({{< baseurl >}}/resources/mitcms_840f13_session_1)
+{{% resource_link a435909d-69c5-caee-7224-e63466e3915b "Lecture Notes for Session 1 - A Brief History of Violence (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -74,11 +79,11 @@ On Style and Metaphor
 
 **America the Violent**
 
-[Guide to Scholarly Writing (PDF)]({{< baseurl >}}/resources/mitcms_840f13_gdetosclywtg)
+{{% resource_link b52fb238-fc24-b1ae-f790-0ae5098cb170 "Guide to Scholarly Writing (PDF)" %}}
 
-[Paper One Topics (PDF)]({{< baseurl >}}/resources/mitcms_840f13_pronetopics)
+{{% resource_link bfc62cb3-2132-36c3-299b-c0e6668c3d1d "Paper One Topics (PDF)" %}}
 
-[Lecture Notes for Session 2 - America the Violent (PDF)]({{< baseurl >}}/resources/mitcms_840f13_session_2)
+{{% resource_link edf90755-2714-1ee9-ce36-2e0ff8faa6f2 "Lecture Notes for Session 2 - America the Violent (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -106,7 +111,7 @@ Benjamin, Walter. "Critique of Violence." In _Reflections: Essays, Aphorisms, Au
 
 **Serial Killers I: Repetition & Commodities**
 
-[Lecture Notes for Session 3 - Serial Killers I – Repetition & Commodities (PDF)]({{< baseurl >}}/resources/mitcms_840f13_session_3)
+{{% resource_link 2b6de5f3-ea16-cfe6-6bc5-6ae49a8109b4 "Lecture Notes for Session 3 - Serial Killers I – Repetition & Commodities (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -132,7 +137,7 @@ Newitz, Annalee. "Serial Killers: Murder Can be Work." In _Pretend We're Dead: C
 
 **Serial Killers II: Boredom & Blankness**
 
-[Lecture Notes for Session 4 -Serial Killers II – Boredom & Blankness (PDF)]({{< baseurl >}}/resources/mitcms_840f13_session_4)
+{{% resource_link 498ded08-11a7-04db-60ef-31cfea78bdc1 "Lecture Notes for Session 4 -Serial Killers II – Boredom & Blankness (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -174,7 +179,7 @@ Fundraising page for American Psycho, the Musical_.
 
 _Paper One Due_
 
-[Lecture Notes for Session 5 - Serial Killers III – Portraits & Signs (PDF)]({{< baseurl >}}/resources/mitcms_840f13_session_5)
+{{% resource_link bd78a7a3-96d7-60ec-31fb-cdf8aca04f09 "Lecture Notes for Session 5 - Serial Killers III – Portraits & Signs (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -206,9 +211,9 @@ Brottman, Mikita. "Neo-Mondo – Recarnivalizing the Taboo." In _Offensive Films
 
 **White Masculinity at the End of the Century**
 
-[Paper Two Topics (PDF)]({{< baseurl >}}/resources/mitcms_840f13_prtwotopics)
+{{% resource_link b1a9d3c4-f37c-ce9a-a772-b78e5075796f "Paper Two Topics (PDF)" %}}
 
-[Lecture Notes for Session 6 - White Masculinity at the End of the Century (PDF)]({{< baseurl >}}/resources/mitcms_840f13_session_6)
+{{% resource_link 04ef9e5e-6b02-c2f6-7ee3-bf26d31a1754 "Lecture Notes for Session 6 - White Masculinity at the End of the Century (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -232,7 +237,7 @@ _[Fight Club](http://www.imdb.com/title/tt0137523/)_. Directed by David Fincher.
 
 **The Underclass & The Marginalized**
 
-[Lecture Notes for Session 7 - The Underclass and the Marginalized (PDF)]({{< baseurl >}}/resources/mitcms_840f13_session_7)
+{{% resource_link de4d8ae3-4ef6-643a-bb47-748de92ab072 "Lecture Notes for Session 7 - The Underclass and the Marginalized (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -256,7 +261,7 @@ _[Seul contre tous](http://www.imdb.com/title/tt0157016/)_. Directed by Gaspar N
 
 **Girls, Women, & Psychic Assault**
 
-[Lecture Notes for Session 8 - Girls, Women, & Psychic Assault (PDF)]({{< baseurl >}}/resources/mitcms_840f13_session_8)
+{{% resource_link 145e94aa-78c3-e3b8-97ea-e2444128e6da "Lecture Notes for Session 8 - Girls, Women, & Psychic Assault (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -284,7 +289,7 @@ de Lauretis, Teresa. "The Violence of Rhetoric." In _Technologies of Gender: Ess
 
 _Paper Two Due_
 
-[Lecture Notes for Session 9 - Sex, Desire, & Fragmentation (PDF)]({{< baseurl >}}/resources/mitcms_840f13_session_9)
+{{% resource_link 78002993-79c5-b58b-8d5f-19039e7d5303 "Lecture Notes for Session 9 - Sex, Desire, & Fragmentation (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -308,9 +313,9 @@ Young, Elizabeth. "Death in Disneyland." In _Shopping in Space: Essays on Americ
 
 **Television, Reality, Culpability**
 
-[Final Paper Topics (PDF)]({{< baseurl >}}/resources/mitcms_840f13_finalprtopis)
+{{% resource_link 3dc72549-8267-5a24-22cc-7cda975e765d "Final Paper Topics (PDF)" %}}
 
-[Lecture Notes for Session 10 - Television, Reality, Culpability (PDF)]({{< baseurl >}}/resources/mitcms_840f13_session_10)
+{{% resource_link 0d1f522b-2d26-892d-3914-ca89cbac02ba "Lecture Notes for Session 10 - Television, Reality, Culpability (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -321,7 +326,7 @@ _[C’est arrivé près de chez vous](http://www.imdb.com/title/tt0103905/)_. Di
 
 _[Natural Born Killers](http://www.imdb.com/title/tt0110632/)_. Directed by Oliver Stone. Black and White, and Color, 118 min. 1994.
 
-Bazin, André. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Death Every Afternoon." (PDF)](http://resourcelists.st-andrews.ac.uk/items/76AFE50D-4C9B-A2AC-049B-70260AF4D6B6.html) In _Rites of Realism_. Edited by Ivone Margulies. Duke University Press Books, 2003. ISBN: 9780822330660. \[Preview with [Google Books](http://books.google.com/books?id=GOGYEfa-16MC&pg=PA27=onepage)\]
+Bazin, André. ["Death Every Afternoon." (PDF)](http://resourcelists.st-andrews.ac.uk/items/76AFE50D-4C9B-A2AC-049B-70260AF4D6B6.html) In _Rites of Realism_. Edited by Ivone Margulies. Duke University Press Books, 2003. ISBN: 9780822330660. \[Preview with [Google Books](http://books.google.com/books?id=GOGYEfa-16MC&pg=PA27=onepage)\]
 
 
 {{< tdclose >}}
@@ -336,7 +341,7 @@ Bazin, André. ![This resource may not render correctly in a screen reader.](/im
 
 **Postmodern Graphic: Gore, Humor, Cartoons**
 
-[Lecture Notes for Session 11 - Postmodern Graphic - Gore, Humor, Cartoons (PDF)]({{< baseurl >}}/resources/mitcms_840f13_session_11)
+{{% resource_link 3924d2ae-a465-ed4e-6cbf-6a5e3ed176ee "Lecture Notes for Session 11 - Postmodern Graphic - Gore, Humor, Cartoons (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -370,7 +375,7 @@ _This is a quick read and very useful conceptual distinction between "strong" vi
 
 **Regarding The Pain of Others**
 
-[Lecture Notes for Session 12 - Regarding the Pain of Others (PDF)]({{< baseurl >}}/resources/mitcms_840f13_session_12)
+{{% resource_link 63bb80af-1d2b-43de-8522-6fb94d555789 "Lecture Notes for Session 12 - Regarding the Pain of Others (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -404,7 +409,7 @@ Brinkema, Eugenie. "'Not to Scream Before or About, but to Scream at Death': Han
 
 _Final Paper Due_
 
-[Lecture Notes for Session 13 - Is it the Case that We Are What We Watch (PDF)]({{< baseurl >}}/resources/mitcms_840f13_session_13)
+{{% resource_link d11b79c1-673b-98f9-d868-ef3277f8c6ee "Lecture Notes for Session 13 - Is it the Case that We Are What We Watch (PDF)" %}}
 
 
 {{< tdclose >}}

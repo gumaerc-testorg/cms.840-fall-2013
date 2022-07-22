@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, requirements, texts, assignments, plagiarism policy,
+  and a note from the professor about the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 06f8a9fd-51e6-1d3f-f728-baa4dac029f7
 ---
@@ -57,9 +62,9 @@ Sontag, Susan. _Regarding the Pain of Others_. Picador, 2004. ISBN: 978031242219
 
 A lot has been written about violence and representation, violence in American culture, violence and the media, etc., just as violence has been a central topic to so many filmmakers and authors. The works on these lists are intended to supplement and extend your interests in the work we do in this course.
 
-[Further Reading (PDF)]({{< baseurl >}}/resources/mitcms_840f13_furtherrdng)
+{{% resource_link e9882466-968e-489e-ee0e-114987d30bfe "Further Reading (PDF)" %}}
 
-[Further Viewing (PDF)]({{< baseurl >}}/resources/mitcms_840f13_furthervwng)
+{{% resource_link 1ed2613f-8dad-2ac6-bb27-92095ef0328c "Further Viewing (PDF)" %}}
 
 Assignments
 -----------
