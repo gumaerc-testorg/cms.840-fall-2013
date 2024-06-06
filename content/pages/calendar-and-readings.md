@@ -18,7 +18,7 @@ Required Texts
 
 \[DC\] = Cooper, Dennis. _Frisk_. Grove Weidenfeld, 1991.
 
-\[SS\] = Sontag, Susan. _Regarding the Pain of Others_. Picador, 2004. ISBN: 9780312422196. \[Preview with {{% resource_link "303d76a4-1232-4fb5-927c-37e0c4329ef1" "Google Books" %}}\]
+\[SS\] = Sontag, Susan. _Regarding the Pain of Others_. Picador, 2004. ISBN: 9780312422196. \[Preview with [Google Books](http://books.google.com/books?id=XYo3AAAAQBAJ&pg=PAfrontcover)\]
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -90,11 +90,11 @@ On Style and Metaphor
 {{< tdopen >}}
 
 
-{{% resource_link "73b486ac-68e6-4159-b41c-91fed575e950" "_Fargo_" %}}. Directed by Joel and Ethan Coen. Color, 98 min. 1996.
+[_Fargo_](http://www.imdb.com/title/tt0116282/). Directed by Joel and Ethan Coen. Color, 98 min. 1996.
 
-_{{% resource_link "77c26058-0f39-47e3-9883-d1330c8952a4" "American History X" %}}_. Directed by Tony Kaye. Black and White, and Color, 119 min. 1998.
+_[American History X](http://www.imdb.com/title/tt0120586/)_. Directed by Tony Kaye. Black and White, and Color, 119 min. 1998.
 
-Slotkin, Richard. "Myth and Literature in a New World." In _Regeneration Through Violence: The Mythology of the American Frontier, 1600–1860_. Wesleyan, 1973. ISBN: 9780819560346. \[Preview with {{% resource_link "8e5ff428-636b-4e59-b67e-626fcfb8bdca" "Google Books" %}}\]
+Slotkin, Richard. "Myth and Literature in a New World." In _Regeneration Through Violence: The Mythology of the American Frontier, 1600–1860_. Wesleyan, 1973. ISBN: 9780819560346. \[Preview with [Google Books](http://books.google.com/books?id=552NfCm3-WwC&pg=PA3=onepage)\]
 
 Benjamin, Walter. "Critique of Violence." In _Reflections: Essays, Aphorisms, Autobiographical Writings_. Edited by Peter Demetz. Translated by Edmund Jephcott. Schocken, 1986. ISBN: 9780805208023.
 
@@ -120,9 +120,9 @@ Benjamin, Walter. "Critique of Violence." In _Reflections: Essays, Aphorisms, Au
 
 \[BE\] pp. 1–226.
 
-Tanner, Laura E. "American Psycho and the American Psyche." In _Intimate Violence: Reading Rape and Torture in Twentieth-Century Fiction_. Indiana University Press, 1994. ISBN: 9780253356482. \[Preview with {{% resource_link "658845d6-88f8-4bf7-91f5-6e3c6d91283c" "Google Books" %}}\]
+Tanner, Laura E. "American Psycho and the American Psyche." In _Intimate Violence: Reading Rape and Torture in Twentieth-Century Fiction_. Indiana University Press, 1994. ISBN: 9780253356482. \[Preview with [Google Books](http://books.google.com/books?id=1vzSNgTqIgcC&pg=PA96=onepage)\]
 
-Newitz, Annalee. "Serial Killers: Murder Can be Work." In _Pretend We're Dead: Capitalist Monsters in American Pop Culture_. Duke University Press Books, 2006. ISBN: 9780822337454. \[Preview with {{% resource_link "a84cba41-85a7-4176-9f0a-dd25e1535534" "Google Books" %}}\]
+Newitz, Annalee. "Serial Killers: Murder Can be Work." In _Pretend We're Dead: Capitalist Monsters in American Pop Culture_. Duke University Press Books, 2006. ISBN: 9780822337454. \[Preview with [Google Books](http://books.google.com/books?id=--gYq6Yqi_gC&pg=PA13=onepage)\]
 
 
 {{< tdclose >}}
@@ -144,24 +144,24 @@ Newitz, Annalee. "Serial Killers: Murder Can be Work." In _Pretend We're Dead: C
 {{< tdopen >}}
 
 
-{{% resource_link "b243b15e-85f7-4381-81d9-0da21fd40f18" "_American Psycho_" %}}. Directed by Mary Harron. Color, 102 min. 2000.
+[_American Psycho_](http://www.imdb.com/title/tt0144084/). Directed by Mary Harron. Color, 102 min. 2000.
 
 \[BE\] pp. 266-end.
 
-Young, Barbara. "{{% resource_link "483bc183-c4ef-4df3-9e6d-734719fb8253" "The Beast in the Jungle: Henry James 1843–1916" %}}." _International Journal of Applied Psychoanalytic Studies_ 5, no. 4 (2008): 225–37.
+Young, Barbara. "[The Beast in the Jungle: Henry James 1843–1916](http://dx.doi.org/10.1002/aps.134)." _International Journal of Applied Psychoanalytic Studies_ 5, no. 4 (2008): 225–37.
 
 ### Optional / Supplemental
 
-Manson, Charles. "{{% resource_link "eaebda62-0f80-438c-a346-99b7da8d8624" "I'm Nobody" %}}." June 7, 2008. Youtube. Interview quotation. 1989.  
-{{% resource_link "eaebda62-0f80-438c-a346-99b7da8d8624" "https://www.youtube.com/watch?v=tqrqaPThCmI&feature=related" %}}  
+Manson, Charles. "[I'm Nobody](https://www.youtube.com/watch?v=tqrqaPThCmI&feature=related)." June 7, 2008. Youtube. Interview quotation. 1989.  
+[https://www.youtube.com/watch?v=tqrqaPThCmI&feature=related](https://www.youtube.com/watch?v=tqrqaPThCmI&feature=related)  
 _Interview with Charles Manson; consider in relation to Bateman's reiterations that he does not exist_.
 
-Padgett, Kelsey, and Brenna Farrell. "{{% resource_link "5daa105d-2bc4-43d2-aa1c-a3b3843ce5eb" "Lethal Weapons" %}}." _Radiolab Blogland_, August 1, 2013.
+Padgett, Kelsey, and Brenna Farrell. "[Lethal Weapons](http://www.radiolab.org/story/308930-lethal-weapons/)." _Radiolab Blogland_, August 1, 2013.
 
-_{{% resource_link "56e5e15c-e2b6-4609-bf87-fd62f8851aca" "American Psycho 2000 Emails" %}}_. Archived ephemera.  
+_[American Psycho 2000 Emails](https://www.ralphbeliveau.com/the-american-psycho-lost-email-entries/)_. Archived ephemera.  
 _Series of emails from Bateman to his psychiatrist (not written by Ellis but approved by him), send to subscriber's to Harron's film's official site in the months leading up to the film (i.e. the marketing for the film as a commodity-object to be desired, purchased and consumed)..._
 
-Singer, Jesse. "{{% resource_link "8356bf7a-0283-40c1-b1be-3f926a5ef611" "American Psycho by Jesse Singer" %}}." Kickstarter.com. 2013._  
+Singer, Jesse. "[American Psycho by Jesse Singer](https://www.kickstarter.com/projects/1798121016/american-psycho)." Kickstarter.com. 2013._  
 Fundraising page for American Psycho, the Musical_.
 
 
@@ -186,11 +186,11 @@ _Paper One Due_
 {{< tdopen >}}
 
 
-_{{% resource_link "3c03d898-b618-4c73-9ed2-15dcaf028f92" "Henry: Portrait of a Serial Killer" %}}_. Directed by John McNaughton. Color, 83 min. 1986.
+_[Henry: Portrait of a Serial Killer](http://www.imdb.com/title/tt0099763/)_. Directed by John McNaughton. Color, 83 min. 1986.
 
-_{{% resource_link "f5abdd16-fa2d-41c4-a62c-7629e4da1944" "Se7en" %}}_. Directed by David Fincher. Color, 127 min. 1995.
+_[Se7en](http://www.imdb.com/title/tt0114369/)_. Directed by David Fincher. Color, 127 min. 1995.
 
-Seltzer, Mark. "The Serial Killer as a Type of Person." In _Serial Killers: Death and Life in America's Wound Culture_. Routledge, 1998. ISBN: 9780415914819. \[Preview with {{% resource_link "575e7e23-7fbb-4bd8-880c-1f6fafc9028d" "Google Books" %}}\]
+Seltzer, Mark. "The Serial Killer as a Type of Person." In _Serial Killers: Death and Life in America's Wound Culture_. Routledge, 1998. ISBN: 9780415914819. \[Preview with [Google Books](http://books.google.com/books?id=UQ-AGFx0hBMC&pg=PA105=onepage)\]
 
 Freeland, Cynthia A. "Realist Horror." In _Philosophy and Film_. Edited by Cynthia A. Freeland, and Thomas E. Wartenberg. Routledge, 1995. ISBN: 9780415909211.
 
@@ -220,7 +220,7 @@ Brottman, Mikita. "Neo-Mondo – Recarnivalizing the Taboo." In _Offensive Films
 {{< tdopen >}}
 
 
-_{{% resource_link "dfd002bd-4384-4752-bc26-72fe31afae33" "Fight Club" %}}_. Directed by David Fincher. Color, 139 min. 1999.
+_[Fight Club](http://www.imdb.com/title/tt0137523/)_. Directed by David Fincher. Color, 139 min. 1999.
 
 \[CP\]
 
@@ -244,9 +244,9 @@ _{{% resource_link "dfd002bd-4384-4752-bc26-72fe31afae33" "Fight Club" %}}_. Dir
 {{< tdopen >}}
 
 
-_{{% resource_link "832a491f-0f03-4134-8224-8139e6729898" "La Haine" %}}_. Directed by Mathieu Kassovitz. Black and White, 98 min. 1995.
+_[La Haine](http://www.imdb.com/title/tt0113247/)_. Directed by Mathieu Kassovitz. Black and White, 98 min. 1995.
 
-_{{% resource_link "77491a69-eb5d-430b-b0f1-de40139ec9f7" "Seul contre tous" %}}_. Directed by Gaspar Noé. Color, 93 min. 1998.
+_[Seul contre tous](http://www.imdb.com/title/tt0157016/)_. Directed by Gaspar Noé. Color, 93 min. 1998.
 
 
 {{< tdclose >}}
@@ -268,11 +268,11 @@ _{{% resource_link "77491a69-eb5d-430b-b0f1-de40139ec9f7" "Seul contre tous" %}}
 {{< tdopen >}}
 
 
-_{{% resource_link "4f76d4c6-576a-452c-963c-0b0d3361fbbe" "Ôdishon" %}}_. Directed by Takashi Miike. Color, 115 min. 1999.
+_[Ôdishon](http://www.imdb.com/title/tt0235198/)_. Directed by Takashi Miike. Color, 115 min. 1999.
 
-_{{% resource_link "95d7784c-7380-4ec9-9270-9ff5cd50c9a8" "À ma soeur" %}}_. Directed by Catherine Breillat. Color, 86 min. 2001.
+_[À ma soeur](http://www.imdb.com/title/tt0243255/)_. Directed by Catherine Breillat. Color, 86 min. 2001.
 
-de Lauretis, Teresa. "The Violence of Rhetoric." In _Technologies of Gender: Essays on Theory, Film, and Fiction_. Indiana University Press, 1987. ISBN: 9780253204417. \[Preview with {{% resource_link "9a4b00d6-6b7a-4db7-bcbf-70ac01c98d74" "Google Books" %}}\]
+de Lauretis, Teresa. "The Violence of Rhetoric." In _Technologies of Gender: Essays on Theory, Film, and Fiction_. Indiana University Press, 1987. ISBN: 9780253204417. \[Preview with [Google Books](http://books.google.com/books?id=twvWBdWSTSMC&pg=PA31=onepage)\]
 
 
 {{< tdclose >}}
@@ -322,11 +322,11 @@ Young, Elizabeth. "Death in Disneyland." In _Shopping in Space: Essays on Americ
 {{< tdopen >}}
 
 
-_{{% resource_link "1201bbf6-8d89-4973-b47f-91f9c11106d5" "C’est arrivé près de chez vous" %}}_. Directed by Rémy Belvaux, André Bonzel, and Benoît Poelvoorde. Black and White, 95 min. 1992.
+_[C’est arrivé près de chez vous](http://www.imdb.com/title/tt0103905/)_. Directed by Rémy Belvaux, André Bonzel, and Benoît Poelvoorde. Black and White, 95 min. 1992.
 
-_{{% resource_link "e01cc5c5-adbf-4955-9bc4-6e1566d60fed" "Natural Born Killers" %}}_. Directed by Oliver Stone. Black and White, and Color, 118 min. 1994.
+_[Natural Born Killers](http://www.imdb.com/title/tt0110632/)_. Directed by Oliver Stone. Black and White, and Color, 118 min. 1994.
 
-Bazin, André. {{% resource_link "66e51554-54d8-490f-8eee-454ffc1bf938" "\"Death Every Afternoon.\" (PDF)" %}} In _Rites of Realism_. Edited by Ivone Margulies. Duke University Press Books, 2003. ISBN: 9780822330660. \[Preview with {{% resource_link "0f25b72a-6d24-4265-9978-decbe3ad4fd1" "Google Books" %}}\]
+Bazin, André. ["Death Every Afternoon." (PDF)](http://resourcelists.st-andrews.ac.uk/items/76AFE50D-4C9B-A2AC-049B-70260AF4D6B6.html) In _Rites of Realism_. Edited by Ivone Margulies. Duke University Press Books, 2003. ISBN: 9780822330660. \[Preview with [Google Books](http://books.google.com/books?id=GOGYEfa-16MC&pg=PA27=onepage)\]
 
 
 {{< tdclose >}}
@@ -348,18 +348,18 @@ Bazin, André. {{% resource_link "66e51554-54d8-490f-8eee-454ffc1bf938" "\"Death
 {{< tdopen >}}
 
 
-{{% resource_link "5f782398-87f8-41fd-97e8-a838fa946c25" "_Reservoir Dogs_" %}}. Directed by Quentin Tarantino. Color, 99 min. 1992.
+[_Reservoir Dogs_](http://www.imdb.com/title/tt0105236/). Directed by Quentin Tarantino. Color, 99 min. 1992.
 
-{{% resource_link "0aee9930-5d23-4619-a25f-62a06b07ea33" "_Oldeuboi_" %}}. Direct by Chan-wook Park. Color, 120 min. 2003.
+[_Oldeuboi_](http://www.imdb.com/title/tt0364569/). Direct by Chan-wook Park. Color, 120 min. 2003.
 
 ### Optional / Supplemental
 
-Hawkins, Joan. "{{% resource_link "354eaac1-3bd9-4e26-b4da-c9ea39942b75" "Culture Wars: Some New Trends in Art Horror" %}}." _Jump Cut_, no. 51 (2009).
+Hawkins, Joan. "[Culture Wars: Some New Trends in Art Horror](http://www.ejumpcut.org/archive/jc51.2009/artHorror/)." _Jump Cut_, no. 51 (2009).
 
-Hopper, Dennis, and Quentin Tarantino. "{{% resource_link "15981f63-c707-43f9-b157-35d9518614de" "Blood Lust Snicker Snicker in Wide Screen" %}}." _Grand Street_ 13, no. 1 (1994): 10–22.  
+Hopper, Dennis, and Quentin Tarantino. "[Blood Lust Snicker Snicker in Wide Screen](http://connection.ebscohost.com/c/interviews/9501160646/blood-lust-snicker-snicker-wide-screen)." _Grand Street_ 13, no. 1 (1994): 10–22.  
 _Dennis Hopper's wide-ranging interview with Quentin Tarantino during the editing of "Pulp Fiction" in which Tarantino discusses, among many other films and topics, "Man Bites Dog."_
 
-McKinney, Devin. "{{% resource_link "168afc28-b145-441a-a681-9b14b0fa3216" "Violence: The Strong and the Weak" %}}." _Film Quarterly_ 46, no. 4 (1993): 16–22.  
+McKinney, Devin. "[Violence: The Strong and the Weak](http://www.urbanministry.org/wiki/violence-strong-and-weak)." _Film Quarterly_ 46, no. 4 (1993): 16–22.  
 _This is a quick read and very useful conceptual distinction between "strong" violence and "weak" violence_.
 
 
@@ -382,9 +382,9 @@ _This is a quick read and very useful conceptual distinction between "strong" vi
 {{< tdopen >}}
 
 
-{{% resource_link "d3d19510-fd3d-4eae-9064-5d85681a0c5e" "_Funny Games_" %}}. Directed by Michael Haneke. Color, 108 min. 1997.
+[_Funny Games_](http://www.imdb.com/title/tt0119167/). Directed by Michael Haneke. Color, 108 min. 1997.
 
-Scarry, Elaine. "Introduction." In _The Body in Pain: The Making and Unmaking of the World_. Oxford University Press, 1987. ISBN: 9780195049961. \[Preview with {{% resource_link "dcb44fa4-2a70-4534-9f64-25e232cbbdba" "Google Books" %}}\]
+Scarry, Elaine. "Introduction." In _The Body in Pain: The Making and Unmaking of the World_. Oxford University Press, 1987. ISBN: 9780195049961. \[Preview with [Google Books](http://books.google.com/books?id=NEaz8I0KAk4C&pg=PAfrontcover)\]
 
 \[SS\]
 
@@ -416,13 +416,13 @@ _Final Paper Due_
 {{< tdopen >}}
 
 
-{{% resource_link "e746c6d7-6586-466f-b410-3b78af6bcb14" "_Benny's Video_" %}}. Directed by Michael Haneke. Color, 105 min. 1992.
+[_Benny's Video_](http://www.imdb.com/title/tt0103793/). Directed by Michael Haneke. Color, 105 min. 1992.
 
-{{% resource_link "06aaf51d-feaa-4279-b0e9-e61c90916569" "_Tesis_" %}}. Directed by Alejandro Amenábar. Color, 125 min. 1996.
+[_Tesis_](http://www.imdb.com/title/tt0117883/). Directed by Alejandro Amenábar. Color, 125 min. 1996.
 
 ### Optional / Supplemental
 
-Brinkema, Eugenie. "How to Do Things with Violences." In _A Companion to Michael Haneke_. Edited by Roy Grandmann. Wiley-Blackwell, 2010. ISBN: 9781405188005. \[Preview with {{% resource_link "944dffbf-b423-4847-9e05-9297b211a45c" "Google Books" %}}\]
+Brinkema, Eugenie. "How to Do Things with Violences." In _A Companion to Michael Haneke_. Edited by Roy Grandmann. Wiley-Blackwell, 2010. ISBN: 9781405188005. \[Preview with [Google Books](http://books.google.com/books?id=4VXkqzmaB4IC&pg=PA354=onepage)\]
 
 
 {{< tdclose >}}
