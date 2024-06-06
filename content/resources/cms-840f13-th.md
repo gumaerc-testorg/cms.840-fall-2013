@@ -6,9 +6,9 @@ file: /courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall
 file_size: 7228
 file_type: image/jpeg
 image_metadata:
-  caption: '{{% resource_link "a7a802c6-b427-4709-a56c-ff7b57c65b74" "Violence!" %}}
-    by Riccardo Cuppini. (Courtesy of {{% resource_link "45ebfac8-f440-4f7a-9dcb-ceb6a377c407"
-    "Riccardo Cuppini" %}}. Used with permission.)'
+  caption: '[Violence!](https://www.flickr.com/photos/cuppini/3234012812) by Riccardo
+    Cuppini. (Courtesy of [Riccardo Cuppini](https://www.flickr.com/photos/cuppini/).
+    Used with permission.)'
   credit: Courtesy of Riccardo Cuppini. Used with permission.
   image-alt: A grimace of rage with a hand around the throat.
 learning_resource_types: []
