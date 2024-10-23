@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 4.
-file: /courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/498ded0811a704db60ef31cfea78bdc1_MITCMS_840F13_Session_4.pdf
+file: /ol-ocw-studio-app/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/498ded0811a704db60ef31cfea78bdc1_MITCMS_840F13_Session_4.pdf
 file_size: 257522
 file_type: application/pdf
 learning_resource_types:

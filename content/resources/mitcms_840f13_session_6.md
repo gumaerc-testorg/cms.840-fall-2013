@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 6.
-file: /courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/04ef9e5e6b02c2f67ee3bf26d31a1754_MITCMS_840F13_Session_6.pdf
+file: /ol-ocw-studio-app/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/04ef9e5e6b02c2f67ee3bf26d31a1754_MITCMS_840F13_Session_6.pdf
 file_size: 728901
 file_type: application/pdf
 learning_resource_types:

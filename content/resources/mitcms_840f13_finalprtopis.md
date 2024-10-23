@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Final Paper Topics.
-file: /courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/3dc7254982675a2422cc7cda975e765d_MITCMS_840F13_FinalPrTopis.pdf
+file: /ol-ocw-studio-app/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/3dc7254982675a2422cc7cda975e765d_MITCMS_840F13_FinalPrTopis.pdf
 file_size: 304853
 file_type: application/pdf
 learning_resource_types:

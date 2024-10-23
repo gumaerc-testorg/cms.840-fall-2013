@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Guide to Scholarly Writing.
-file: /courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/b52fb238fc24b1aef7900ae5098cb170_MITCMS_840F13_GdeToSclyWtg.pdf
+file: /ol-ocw-studio-app/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/b52fb238fc24b1aef7900ae5098cb170_MITCMS_840F13_GdeToSclyWtg.pdf
 file_size: 177332
 file_type: application/pdf
 learning_resource_types:
