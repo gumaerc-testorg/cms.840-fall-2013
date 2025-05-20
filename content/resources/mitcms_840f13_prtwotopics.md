@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Paper Two Topics.
-file: /ol-ocw-studio-app/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/b1a9d3c4f37cce9aa772b78e5075796f_MITCMS_840F13_PrTwoTopics.pdf
+file: /courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/b1a9d3c4f37cce9aa772b78e5075796f_MITCMS_840F13_PrTwoTopics.pdf
 file_size: 249332
 file_type: application/pdf
 learning_resource_types:
