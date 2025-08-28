@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Paper One Topics.
-file: /courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/bfc62cb3213236c3299bc0e6668c3d1d_MITCMS_840F13_PrOneTopics.pdf
+file: /ol-ocw-studio-app/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/bfc62cb3213236c3299bc0e6668c3d1d_MITCMS_840F13_PrOneTopics.pdf
 file_size: 254165
 file_type: application/pdf
 learning_resource_types:
